@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "name": "the best album",
+    "artist": "greatest artist",
+    "art": "https://picsum.photos/id/494/600/300",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Top reviewer",
+        "review": "Suspendisse aliquam risus sit amet justo pulvinar, quis viverra sem molestie."
+      },
+      {
+        "id": "2",
+        "name": "Album reviewer",
+        "review": "Maecenas nec sagittis odio, ut eleifend risus. Cras malesuada risus nisi, et tempus purus porta vel. "
+      },
+      {
+        "id": "3",
+        "name": "Review Magazine",
+        "review": "Donec dictum vel neque at porttitor."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "a nice album",
+    "artist": "artists unknown",
+    "art": "https://picsum.photos/id/496/600/300",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Another reviewer",
+        "review": "Aliquam risus sit amet justo pulvinar, quis viverra sem molestie."
+      },
+      {
+        "id": "2",
+        "name": "Google reviewer",
+        "review": "Nec sagittis odio, ut eleifend risus. Cras malesuada risus nisi, et tempus purus porta vel. "
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "great album",
+    "artist": "some artist",
+    "art": "https://picsum.photos/id/499/600/300",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Ok reviewer",
+        "review": "Justo pulvinar, quis viverra sem molestie."
+      },
+      {
+        "id": "2",
+        "name": "Best reviewer",
+        "review": "Eleifend risus. Cras malesuada risus nisi, et tempus purus porta vel. "
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "another great album",
+    "artist": "ok artist",
+    "art": "https://picsum.photos/id/498/600/300",
+    "reviews": [
+      {
+        "id": "1",
+        "name": "Best reviewer",
+        "review": "Mauris scelerisque vestibulum nisl, at congue nibh fermentum ut."
+      },
+      {
+        "id": "2",
+        "name": "Another reviewer",
+        "review": "Maecenas nec sagittis odio, ut eleifend risus. Cras malesuada risus nisi, et tempus purus porta vel. "
+      },
+      {
+        "id": "3",
+        "name": "Ok Magazine",
+        "review": "Donec dictum vel neque at porttitor."
+      }
+    ]
+  }
+]
